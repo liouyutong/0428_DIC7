@@ -1,6 +1,6 @@
 # 📈 數據科學之卷：線性回歸 CRISP-DM 實踐
 
-### 🔗 [點此進入 Live Demo](https://0428-dic7.streamlit.app/)
+### 🔗 [點此進入 Live Demo](https://0428dic7-mbk7fsxktrjcvzmjvenhhh.streamlit.app/)
 
 ## 🖼️ 介面預覽 (Preview)
 ![App Screenshot](screenshot.png)
