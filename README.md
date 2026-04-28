@@ -1,5 +1,10 @@
 # 📈 數據科學之卷：線性回歸 CRISP-DM 實踐
 
+### 🔗 [點此進入 Live Demo](https://0428-dic7.streamlit.app/)
+
+## 🖼️ 介面預覽 (Preview)
+![App Screenshot](screenshot.png)
+
 這是一個基於 **Streamlit** 開發的互動式 Web 應用程式，旨在透過線性回歸（Linear Regression）模型，完整演示數據探勘標準流程 **CRISP-DM** 的六大階段。
 
 ## 🎨 視覺設計：清雅藍綠古風
